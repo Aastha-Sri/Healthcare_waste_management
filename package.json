@@ -1,6 +1,7 @@
 {
   "name": "healthcare-frontend",
   "version": "0.1.0",
+  "homepage": "https://Aastha-Sri.github.io/Healthcare_waste_management",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -15,7 +16,9 @@
     "react-scripts": "5.0.1",
     "solc": "^0.8.19",
     "web-vitals": "^2.1.4",
-    "web3": "^4.10.0"
+    "web3": "^4.10.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
