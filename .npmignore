@@ -1,0 +1,8 @@
+# Ignore the node_modules directory
+node_modules
+
+# Ignore the build directory
+build
+
+# Ignore the healthcare-backend directory
+healthcare-backend
