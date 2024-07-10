@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Healthcare_waste_management/static/css/main.c0389b4c.css",
+    "main.js": "/Healthcare_waste_management/static/js/main.0b374b69.js",
+    "static/media/Healthcare_sol_Healthcare.abi": "/Healthcare_waste_management/static/media/Healthcare_sol_Healthcare.f6f76b3bc9aaddb275a0.abi",
+    "index.html": "/Healthcare_waste_management/index.html",
+    "main.c0389b4c.css.map": "/Healthcare_waste_management/static/css/main.c0389b4c.css.map",
+    "main.0b374b69.js.map": "/Healthcare_waste_management/static/js/main.0b374b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0389b4c.css",
+    "static/js/main.0b374b69.js"
+  ]
+}
